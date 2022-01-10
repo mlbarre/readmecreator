@@ -1,38 +1,38 @@
-# Readme for the following Project
+# Read Me Generator
 
   # Description
-  a readme for my project
+  A read me creator for quick read me's
 
   # Table of Contents
 
-  * [Installation](#install)
+  * [Installation](#installation)
 
   * [Usage](#usage)
 
   * [License](#license)
 
-  * [Contributors](#contribution)
+  * [Contributors](#contributors)
 
-  * [Testing](#test)
+  * [Testing](#testing)
 
   * [Questions?](#questions)
 
   # Installation
-  In order for the application to run smoothly, dependencies added to this project: undefined
+  In order for the application to run smoothly, dependencies added to this project: Will require Inquirer and node.js
 
   # Usage
-  undefined
+  Used for a quick read me to any starter project.
 
   # License 
   
 
   # Contributors
-  one
+  None.
 
   # Testing
-  If you would like to run test, you need to know: 
-  undefined
+  If you would like to run tests, you need to know: 
+  If you would like to test, please see installation and usage above.
 
   # Questions?
-  Have any questions? Feel free to reach me @ my github: mlbarre and email: mlbarre@email.com.
+  Have any questions? Feel free to reach me @ my github: mlbarre and email: mlbarrera1538@gmail.com.
 
